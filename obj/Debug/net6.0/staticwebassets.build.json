@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OT4gWcOf6iBUGidRLmQt6Rh0L9J24SZurNjoYz1zxp0=",
+  "Source": "marsha-stripe-api",
+  "BasePath": "_content/marsha-stripe-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
